@@ -1,0 +1,19 @@
+# Python  cache
+__pycache__/
+
+# cache directory
+cache/
+
+# exports directory
+exports/
+
+# Python virtual environment
+venv/
+
+# environment variables file
+.env
+
+# pandasai log file
+pandasai.log
+
+a.py
