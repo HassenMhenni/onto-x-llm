@@ -97,5 +97,8 @@ streamlit run app.py
 Example inputs and outputs will be provided.
 
 ### Screenshots:
-![Screenshot of app Interface](screenshots\llm_screenshot.png)
+![Screenshot of app Interface 1](https://github.com/HassenMhenni/onto-x-llm/blob/main/screenshots/llm_screenshot.png)
+![Screenshot of app Interface 2](https://github.com/HassenMhenni/onto-x-llm/blob/main/screenshots/llm_screenshot_1.png)
+
+
 
